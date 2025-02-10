@@ -2,3 +2,4 @@ fastapi
 openai
 twilio
 uvicorn
+python-multipart
